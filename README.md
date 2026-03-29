@@ -99,7 +99,7 @@ Prometheus, Grafana, Splunk
 - **LinkedIn:** https://linkedin.com/in/poojas49  
 - **Email:** pooja.shinde1099@gmail.com  
 
-I'm actively exploring **full-time roles (2026)** in:
+I'm actively exploring **full-time roles** in:
 **Backend Engineering · Distributed Systems · Data / AI Platform Engineering**
 
 Thanks for stopping by! ⭐
