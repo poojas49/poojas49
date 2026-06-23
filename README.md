@@ -66,4 +66,4 @@ Prometheus · Grafana · Splunk
 
 ---
 
-Open to full-time roles in backend engineering, distributed systems, and AI platform engineering.
+Open to full-time roles in backend engineering, distributed systems, and AI engineering (Gen AI and agentic workflows).
